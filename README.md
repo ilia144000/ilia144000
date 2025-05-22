@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="RANNTA GitHub Banner" width="100%">
+</p>
 
-<!--
-**ilia144000/ilia144000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧿 Welcome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I’m Ilia — Symbolist, Architect, and Founder of RANNTA.**
+
+> I build narrative-driven crypto projects inspired by fire, myth, and sacred language — starting with the RANNTA token and symbolic NFT collections.
+
+---
+
+### 🔗 Featured Project
+
+- 🪙 [RANNTA Token on GitHub](https://github.com/ilia144000/rannta-token)
+- 📄 [Whitepaper](https://ilia144000.github.io/ranntaweb-v2/whitepaper.html)
+- 🖼 [NFT Collections](https://getgems.io/rannta)
+- 🌐 [Website](https://rannta.com)
+
+---
+
+### 📨 Contact
+
+- Telegram: [@ranntacoin2025](https://t.me/ranntacoin2025)
+- Email: ilia@rannta.com
+
