@@ -24,5 +24,8 @@
 ### 📨 Contact
 
 - Telegram: [@ranntacoin2025](https://t.me/ranntacoin2025)
-- Email: ilia@rannta.com
+- Email (direct): ilia@rannta.com  
+- Email (personal): ilia144000@gmail.com  
+- Email (symbolic/consulting): symbolists@rannta.com
+
 
