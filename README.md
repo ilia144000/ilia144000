@@ -27,6 +27,7 @@
 - Email (direct): ilia@rannta.com  
 - Email (personal): ilia144000@gmail.com  
 - Email (symbolic/consulting): symbolists@rannta.com
+- Email (RANNTA): contact@rannta.com
   
 
 
