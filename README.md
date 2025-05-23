@@ -4,7 +4,7 @@
 
 ---
 
-### 🧿 Welcome
+###  Welcome
 
 **I’m Ilia — Symbolist, Architect, and Founder of RANNTA.**
 
@@ -14,18 +14,19 @@
 
 ### 🔗 Featured Project
 
-- 🪙 [RANNTA Token on GitHub](https://github.com/ilia144000/rannta-token)
-- 📄 [Whitepaper](https://ilia144000.github.io/ranntaweb-v2/whitepaper.html)
-- 🖼 [NFT Collections](https://getgems.io/rannta)
-- 🌐 [Website](https://rannta.com)
+-  [RANNTA Token on GitHub](https://دgithub.com/ilia144000/rannta-token)
+-  [Whitepaper](https://ilia144000.github.io/ranntaweb-v2/whitepaper.html)
+-  [NFT Collections](https://getgems.io/rannta)
+-  [Website](https://rannta.com)
 
 ---
 
-### 📨 Contact
+###  Contact
 
 - Telegram: [@ranntacoin2025](https://t.me/ranntacoin2025)
 - Email (direct): ilia@rannta.com  
 - Email (personal): ilia144000@gmail.com  
 - Email (symbolic/consulting): symbolists@rannta.com
+  
 
 
