@@ -25,10 +25,15 @@
 
 - [NFT Collection: RANNTA Cycle (Zodiac Awakening)](https://getgems.io/rannta-cycle)  
   Zodiac/Cosmic themed collection – A special limited edition NFT series inspired by the eternal cycles of the Zodiac and cosmic awakening.
+  
   https://opensea.io/collection/rannta-future-of-the-world
+  
   https://opensea.io/collection/rannta-earthkeeper-tree-of-breath
+  
   https://opensea.io/collection/rannta-guardian-of-secrets
+  
   https://opensea.io/collection/rannta-defenders
+  
   https://opensea.io/collection/rannta-mythogenia
 ---
 
