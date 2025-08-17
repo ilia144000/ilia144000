@@ -34,7 +34,13 @@
   
 -  https://opensea.io/collection/rannta-defenders
   
--  https://opensea.io/collection/rannta-mythogenia
+- [NFT Collection: https://opensea.io/collection/rannta-mythogenia)
+-  The Origin Realm of Elemental, Myth-Born Beings
+-  Mythogenia is an evolving collection of sacredly-crafted NFT beings born from elemental forces and ancient myths. Each creation within this realm is designed through golden-ratio geometry, symbolic archetypes, and stylized realism, forming a bridge between mysticism and modern visual art.
+🌌 Starting Drop: 12 Elemental Griffins × 3 Editions
+🔥 Future Drops Teased: Phenixia, Djinnverse, Zodiacthon, and MythoForge
+🪐 Chain: Polygon | License: mythogriff.io/license
+🔮 #Mythogenia #ElementalNFT #MythoArt #PolygonNFT
 ---
 
 ###  Contact
