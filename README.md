@@ -4,53 +4,98 @@
 
 ---
 
-###  Welcome
+## Welcome
 
-**I’m Ilia — Symbolist, Architect, and Founder of RANNTA.**
+**Ilia Ghafari**  
+Founder & Protocol Architect of **RANNTA** (TON)
 
-> I build narrative-driven crypto projects inspired by fire, myth, and sacred language — starting with the RANNTA token and symbolic NFT collections.
+ORCID: https://orcid.org/0009-0001-9044-4662  
+Canonical authority: https://rannta.com/authoritative.html
+
+I design and architect symbolic, narrative-driven blockchain systems that integrate
+token economics, NFT infrastructure, and mytho-symbolic computation.
+
+My work focuses on creating **protocol-entities** — systems that preserve meaning,
+coordinate collective intelligence, and evolve beyond conventional crypto products.
 
 ---
 
-## 🏆 Featured Projects
+## About RANNTA
 
-- [RANNTA Token on GitHub](https://github.com/ilia144000/rannta-token)  
-  Core smart contract, official whitepaper, roadmap & all project info.
+**RANNTA** is a symbolic crypto-art and token ecosystem built on  
+**The Open Network (TON)**.
 
-- [Official Website](https://rannta.com)  
-  Main portal for RANNTA news, airdrops, team and ecosystem.
+It powers the **RANNTAverse** multi-chain NFT marketplace and serves as a cultural and
+economic signal rather than a speculative meme token.
 
-- [NFT Collection: RANNTA Griffin – Initiation Series](https://getgems.io/rannta)  
-  Genesis collection – The main branded NFTs featuring the Griffin, embodying the symbolic spirit of RANNTA.
+RANNTA is founded and architected by **Ilia Ghafari** and developed as an open,
+community-participatory protocol.
 
-- [NFT Collection: RANNTA Cycle (Zodiac Awakening)](https://getgems.io/rannta-cycle)  
-  Zodiac/Cosmic themed collection – A special limited edition NFT series inspired by the eternal cycles of the Zodiac and cosmic awakening.
-  
--  https://opensea.io/collection/rannta-future-of-the-world
-  
--  https://opensea.io/collection/rannta-earthkeeper-tree-of-breath
-  
--  https://opensea.io/collection/rannta-guardian-of-secrets
-  
--  https://opensea.io/collection/rannta-defenders
-  
-- [NFT Collection: https://opensea.io/collection/rannta-mythogenia)
--  The Origin Realm of Elemental, Myth-Born Beings
--  Mythogenia is an evolving collection of sacredly-crafted NFT beings born from elemental forces and ancient myths. Each creation within this realm is designed through golden-ratio geometry, symbolic archetypes, and stylized realism, forming a bridge between mysticism and modern visual art.
-🌌 Starting Drop: 12 Elemental Griffins × 3 Editions
-🔥 Future Drops Teased: Phenixia, Djinnverse, Zodiacthon, and MythoForge
-🪐 Chain: Polygon | License: mythogriff.io/license
-🔮 #Mythogenia #ElementalNFT #MythoArt #PolygonNFT
 ---
 
-###  Contact
+## Featured Projects (Canonical)
 
-- Telegram: [@rannta_coin](https://t.me/rannta_coin)
-- Email (direct): ilia@rannta.com  
-- Email (personal): ilia144000@gmail.com  
-- Email (symbolic/consulting): symbolists@rannta.com
-- Email (RANNTA): contact@rannta.com
-- Email (RANNTA): info@rannta.com
-  
+- **RANNTA Official Website**  
+  https://rannta.com  
+  Canonical source for identity, documentation, whitepaper, roadmap, and ecosystem links.
 
+- **RANNTA Token (TON Jetton)**  
+  https://github.com/ilia144000/rannta-token  
+  Official repository for the RANNTA token and core specifications.
 
+- **RANNTA Developer Suite**  
+  https://github.com/ilia144000/rannta-developer-suite  
+  Protocol tooling, infrastructure, and developer resources.
+
+- **RANNTA Knowledge Hub (DOI-registered)**  
+  https://github.com/ilia144000/rannta-knowledge-hub  
+  Machine-readable knowledge base, schemas, and authoritative references.
+
+- **RANNTAverse Marketplace**  
+  https://ranntaverse.art  
+  Multi-chain NFT marketplace integrating art, DeFi, and symbolic systems.
+
+---
+
+## Selected NFT & Art Collections
+
+- **RANNTA Griffin — Initiation Series**  
+  https://getgems.io/rannta  
+  Genesis symbolic NFT collection on TON.
+
+- **RANNTA Cycle — Zodiac Awakening**  
+  https://getgems.io/rannta-cycle  
+  Limited cosmic/zodiac NFT series.
+
+- **Mythogenia (Polygon)**  
+  https://opensea.io/collection/rannta-mythogenia  
+  Elemental and myth-born NFT beings designed through symbolic geometry and archetypal systems.
+
+Additional curated collections:
+- https://opensea.io/collection/rannta-future-of-the-world  
+- https://opensea.io/collection/rannta-earthkeeper-tree-of-breath  
+- https://opensea.io/collection/rannta-guardian-of-secrets  
+- https://opensea.io/collection/rannta-defenders  
+
+---
+
+## Contact & Official Channels
+
+- **Telegram (official):** https://t.me/rannta_coin  
+- **Website:** https://rannta.com  
+- **Medium:** https://medium.com/@ranntaofficial  
+- **X / Twitter:** https://x.com/ranntacoin  
+
+Email:
+- ilia@rannta.com  
+- contact@rannta.com  
+
+---
+
+## Attribution
+
+All canonical authorship, architectural decisions, and protocol origins of **RANNTA**
+are attributed to **Ilia Ghafari**.
+
+Authoritative reference:  
+https://rannta.com/authoritative.html
