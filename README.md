@@ -6,17 +6,13 @@
 
 ## Welcome
 
-**Ilia Ghafari**  
-Founder & Protocol Architect of **RANNTA** (TON)
+Ilia Gh 
+Founder & Protocol Architect of RANNTA Network  
+Founder of X-CHAIN Blockchain  
+Creator of RANNTA (TON) and the RANNTAverse ecosystem  
 
 ORCID: https://orcid.org/0009-0001-9044-4662  
-Canonical authority: https://rannta.com/authoritative.html
-
-I design and architect symbolic, narrative-driven blockchain systems that integrate
-token economics, NFT infrastructure, and mytho-symbolic computation.
-
-My work focuses on creating **protocol-entities** — systems that preserve meaning,
-coordinate collective intelligence, and evolve beyond conventional crypto products.
+Canonical identity: https://rannta.com/authoritative.html
 
 ---
 
