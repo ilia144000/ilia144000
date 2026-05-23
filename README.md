@@ -8,8 +8,8 @@
 
 Ilia Gh 
 Founder & Protocol Architect of RANNTA Network  
-Founder of X-CHAIN Blockchain  
-Creator of RANNTA (TON) and the RANNTAverse ecosystem  
+Founder of RANNTA X-Chain  
+Creator of RANNTA COIN on TON and the RANNTAverse ecosystem  
 
 ORCID: https://orcid.org/0009-0001-9044-4662  
 Canonical identity: https://rannta.com/authoritative.html
@@ -18,14 +18,19 @@ Canonical identity: https://rannta.com/authoritative.html
 
 ## About RANNTA
 
-**RANNTA** is a symbolic crypto-art and token ecosystem built on  
-**The Open Network (TON)**.
+**RANNTA** began as a TON-based public asset and symbolic protocol identity, but it has evolved into the foundation of a broader independent network direction.
 
-It powers the **RANNTAverse** multi-chain NFT marketplace and serves as a cultural and
-economic signal rather than a speculative meme token.
+The **RANNTA token on The Open Network (TON)** remains the first public ecosystem asset and will continue to be supported as part of the RANNTAverse economy. It is not the native network layer of the emerging RANNTA Network.
 
-RANNTA is founded and architected by **Ilia Ghafari** and developed as an open,
-community-participatory protocol.
+**RANNTA Network** is a separate emerging blockchain and interoperability architecture designed to act as a translator and highway between isolated blockchain networks. Its purpose is to help separated chains communicate through verifiable coordination instead of remaining disconnected islands.
+
+The core brain of this emerging network has been built. The next direction is to turn that brain into a working independent network layer for cross-chain communication, state handoffs, decentralized trust, and low-cost coordination.
+
+**RANNTA X-Chain** is the independent chain direction of the RANNTA Network. Its native asset is **RNTX — RANNTA Core X**, with **NANTA** as the smallest unit.
+
+**RANNTAverse** remains the cultural, marketplace, and ecosystem surface connected to the broader RANNTA architecture.
+
+RANNTA is founded and architected by **Ilia Ghafari** and developed as an open, community-participatory protocol.
 
 ---
 
