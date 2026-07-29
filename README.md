@@ -30,7 +30,7 @@ The core brain of this emerging network has been built. The next direction is to
 
 **RANNTAverse** remains the cultural, marketplace, and ecosystem surface connected to the broader RANNTA architecture.
 
-RANNTA is founded and architected by **Ilia Ghafari** and developed as an open, community-participatory protocol.
+RANNTA is founded and architected by **Ilia Gh** and developed as an open, community-participatory protocol.
 
 ---
 
