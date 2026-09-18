@@ -2,101 +2,102 @@
   <img src="banner.png" alt="RANNTA GitHub Banner" width="100%">
 </p>
 
----
+# Ilia Ghafari
 
-## Welcome
+**Founder of RANNTA | Independent Blockchain Infrastructure Developer**
 
-Ilia Gh 
-Founder & Protocol Architect of RANNTA Network  
-Founder of RANNTA X-Chain  
-Creator of RANNTA COIN on TON and the RANNTAverse ecosystem  
+Independent L1 • Cross-Chain • Post-Quantum Infrastructure • Exchange Systems • Developer Tooling
 
-ORCID: https://orcid.org/0009-0001-9044-4662  
-Canonical identity: https://rannta.com/authoritative.html
+I build end-to-end blockchain systems across protocol code, node software, RPC infrastructure, cross-chain routing, exchange products, desktop applications, public APIs, deployment, and production operations.
 
----
+RANNTA is built as an independent project. I work hands-on across architecture, implementation, debugging, release engineering, infrastructure, and product delivery.
 
-## About RANNTA
+[Technical CV](TECHNICAL-CV.md) • [Selected Projects](PROJECTS.md) • [Programs & Services](PROGRAMS.md) • [Public Repositories](PUBLIC-REPOSITORIES.md) • [Machine-Readable Portfolio](portfolio.json)
 
-**RANNTA** began as a TON-based public asset and symbolic protocol identity, but it has evolved into the foundation of a broader independent network direction.
+## Current Technical Focus
 
-The **RANNTA token on The Open Network (TON)** remains the first public ecosystem asset and will continue to be supported as part of the RANNTAverse economy. It is not the native network layer of the emerging RANNTA Network.
+- Independent Layer 1 blockchain infrastructure
+- Rust node and protocol engineering
+- Ethereum-style JSON-RPC services
+- Cross-chain routing and interoperability
+- Exchange and swap infrastructure
+- Post-quantum authorization and hybrid cryptography
+- TON Jetton tooling and integrations
+- Windows desktop node software
+- Linux x86_64 and ARM64 node packaging
+- TypeScript / JavaScript SDKs and web products
+- C# desktop tooling
+- Production deployment, debugging, monitoring, and release engineering
 
-**RANNTA Network** is a separate emerging blockchain and interoperability architecture designed to act as a translator and highway between isolated blockchain networks. Its purpose is to help separated chains communicate through verifiable coordination instead of remaining disconnected islands.
+## Selected Systems
 
-The core brain of this emerging network has been built. The next direction is to turn that brain into a working independent network layer for cross-chain communication, state handoffs, decentralized trust, and low-cost coordination.
+| Project | Scope | Public Surface |
+| --- | --- | --- |
+| **RANNTA X-Chain** | Independent L1, RNTX native gas, chain ID `13113`, Ethereum-style JSON-RPC, public node infrastructure | https://rannta.com · https://rpc.rannta.com · https://explorer.rannta.com |
+| **RANNTA Core** | Full-node desktop software, Windows and Linux runtime packaging, synchronization and node control | Public release packaging in progress |
+| **RANNTA X-Change** | Cross-chain exchange and route aggregation infrastructure | https://ranntaexchange.com · https://github.com/ilia144000/rannta-x-change |
+| **RANNTA PQ Cloud** | Post-quantum verification and authorization infrastructure for blockchain and exchange workflows | https://pq.rannta.com |
+| **RANNTA Token** | TON Jetton, public specifications, ecosystem asset and integration tooling | https://github.com/ilia144000/rannta-token |
+| **RANNTA Developer Suite** | Typed SDK and CLI tooling for TON integrations and analytics | https://github.com/ilia144000/rannta-developer-suite |
+| **RANNTAverse** | Creator, marketplace and ecosystem application surface | https://ranntaverse.app |
 
-**RANNTA X-Chain** is the independent chain direction of the RANNTA Network. Its native asset is **RNTX — RANNTA Core X**, with **NANTA** as the smallest unit.
+## Public Engineering Repositories
 
-**RANNTAverse** remains the cultural, marketplace, and ecosystem surface connected to the broader RANNTA architecture.
+### RANNTA and Infrastructure
 
-RANNTA is founded and architected by **Ilia Gh** and developed as an open, community-participatory protocol.
+- [rannta-token](https://github.com/ilia144000/rannta-token)
+- [rannta-developer-suite](https://github.com/ilia144000/rannta-developer-suite)
+- [rannta-api](https://github.com/ilia144000/rannta-api)
+- [rannta-crosschain](https://github.com/ilia144000/rannta-crosschain)
+- [RANNTA-DeFi-Router](https://github.com/ilia144000/RANNTA-DeFi-Router)
+- [rannta-x-change](https://github.com/ilia144000/rannta-x-change)
+- [rannta-xchain-public-image](https://github.com/ilia144000/rannta-xchain-public-image)
+- [rannta-knowledge-hub](https://github.com/ilia144000/rannta-knowledge-hub)
+- [rannta-zenodo-registry](https://github.com/ilia144000/rannta-zenodo-registry)
+- [ranntaweb-v2](https://github.com/ilia144000/ranntaweb-v2)
 
----
+### Ecosystem Integration Workspaces
 
-## Featured Projects (Canonical)
+The account also contains public registries, forks, asset repositories, and upstream integration workspaces used for ecosystem participation. See [PUBLIC-REPOSITORIES.md](PUBLIC-REPOSITORIES.md). Their presence on this account is not presented as a claim of original authorship for third-party upstream projects.
 
-- **RANNTA Official Website**  
-  https://rannta.com  
-  Canonical source for identity, documentation, whitepaper, roadmap, and ecosystem links.
+## Engineering Approach
 
-- **RANNTA Token (TON Jetton)**  
-  https://github.com/ilia144000/rannta-token  
-  Official repository for the RANNTA token and core specifications.
+- Build from protocol/runtime behavior outward, not from presentation alone
+- Keep production paths reproducible and verifiable
+- Use architecture hashes, release hashes, and platform verification where appropriate
+- Separate public release artifacts from private production state and credentials
+- Prefer working systems, observable runtime evidence, and direct integration testing
 
-- **RANNTA Developer Suite**  
-  https://github.com/ilia144000/rannta-developer-suite  
-  Protocol tooling, infrastructure, and developer resources.
+## Public References
 
-- **RANNTA Knowledge Hub (DOI-registered)**  
-  https://github.com/ilia144000/rannta-knowledge-hub  
-  Machine-readable knowledge base, schemas, and authoritative references.
+- Website: https://rannta.com
+- RANNTAverse: https://ranntaverse.app
+- Exchange: https://ranntaexchange.com
+- PQ Cloud: https://pq.rannta.com
+- X: https://x.com/ranntacoin
+- Medium: https://medium.com/@ranntaofficial
+- ORCID: https://orcid.org/0009-0001-9044-4662
+- Canonical identity: https://rannta.com/authoritative.html
 
-- **RANNTAverse Marketplace**  
-  https://ranntaverse.art  
-  Multi-chain NFT marketplace integrating art, DeFi, and symbolic systems.
+## Collaboration
 
----
+Open to:
 
-## Selected NFT & Art Collections
+- Remote blockchain and infrastructure engineering
+- Protocol / node engineering
+- Solutions engineering
+- Exchange and blockchain integrations
+- Post-quantum security integration
+- Cross-chain infrastructure partnerships
+- Strategic technical partnerships and investment around RANNTA
 
-- **RANNTA Griffin — Initiation Series**  
-  https://getgems.io/rannta  
-  Genesis symbolic NFT collection on TON.
+## Contact
 
-- **RANNTA Cycle — Zodiac Awakening**  
-  https://getgems.io/rannta-cycle  
-  Limited cosmic/zodiac NFT series.
-
-- **Mythogenia (Polygon)**  
-  https://opensea.io/collection/rannta-mythogenia  
-  Elemental and myth-born NFT beings designed through symbolic geometry and archetypal systems.
-
-Additional curated collections:
-- https://opensea.io/collection/rannta-future-of-the-world  
-- https://opensea.io/collection/rannta-earthkeeper-tree-of-breath  
-- https://opensea.io/collection/rannta-guardian-of-secrets  
-- https://opensea.io/collection/rannta-defenders  
-
----
-
-## Contact & Official Channels
-
-- **Telegram (official):** https://t.me/rannta_coin  
-- **Website:** https://rannta.com  
-- **Medium:** https://medium.com/@ranntaofficial  
-- **X / Twitter:** https://x.com/ranntacoin  
-
-Email:
-- ilia@rannta.com  
-- contact@rannta.com  
-
----
+- Network / infrastructure: **network@rannta.com**
+- Partnerships: **partners@rannta.com**
+- GitHub: https://github.com/ilia144000
+- X: https://x.com/ranntacoin
 
 ## Attribution
 
-All canonical authorship, architectural decisions, and protocol origins of **RANNTA**
-are attributed to **Ilia Ghafari**.
-
-Authoritative reference:  
-https://rannta.com/authoritative.html
+RANNTA architectural and protocol work presented here is attributed to **Ilia Ghafari** unless a repository clearly identifies third-party or upstream authorship.
