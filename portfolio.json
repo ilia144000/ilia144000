@@ -1,0 +1,41 @@
+{
+  "name": "Ilia Ghafari",
+  "github": "ilia144000",
+  "role": "Independent Blockchain Infrastructure Developer",
+  "founder_of": "RANNTA",
+  "focus": [
+    "Layer 1 blockchain infrastructure",
+    "Rust node and protocol engineering",
+    "cross-chain interoperability",
+    "exchange infrastructure",
+    "post-quantum authorization",
+    "TON tooling",
+    "Windows and Linux node software"
+  ],
+  "public_services": {
+    "website": "https://rannta.com",
+    "rpc": "https://rpc.rannta.com",
+    "explorer": "https://explorer.rannta.com",
+    "exchange": "https://ranntaexchange.com",
+    "pq_cloud": "https://pq.rannta.com",
+    "ranntaverse": "https://ranntaverse.app"
+  },
+  "selected_repositories": [
+    "https://github.com/ilia144000/rannta-token",
+    "https://github.com/ilia144000/rannta-developer-suite",
+    "https://github.com/ilia144000/rannta-api",
+    "https://github.com/ilia144000/rannta-crosschain",
+    "https://github.com/ilia144000/RANNTA-DeFi-Router",
+    "https://github.com/ilia144000/rannta-x-change",
+    "https://github.com/ilia144000/rannta-xchain-public-image",
+    "https://github.com/ilia144000/rannta-knowledge-hub",
+    "https://github.com/ilia144000/rannta-zenodo-registry",
+    "https://github.com/ilia144000/ranntaweb-v2"
+  ],
+  "contact": {
+    "network": "network@rannta.com",
+    "partnerships": "partners@rannta.com",
+    "x": "https://x.com/ranntacoin",
+    "orcid": "https://orcid.org/0009-0001-9044-4662"
+  }
+}
