@@ -2,7 +2,7 @@
   <img src="banner.png" alt="RANNTA GitHub Banner" width="100%">
 </p>
 
-# Ilia Ghafari
+# Ilia Gh
 
 **Founder of RANNTA | Independent Blockchain Infrastructure Developer**
 
