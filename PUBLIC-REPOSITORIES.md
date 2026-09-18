@@ -1,21 +1,33 @@
 # Public Repository Index
 
-This index lists public repositories visible on the `ilia144000` GitHub account. Some repositories are original RANNTA projects, while others are upstream integration workspaces, forks, registries, asset repositories, or ecosystem contribution targets. Their presence here should not be read as a claim of original authorship for third-party upstream projects.
+Current public repositories visible on the `ilia144000` GitHub account.
 
-## RANNTA Core Public Projects
+Some repositories are original RANNTA projects. Others are upstream integration workspaces, forks, registries, asset repositories or ecosystem contribution targets. Their presence on this account does not imply original authorship of third-party upstream projects.
 
-- https://github.com/ilia144000/rannta-token
-- https://github.com/ilia144000/rannta-developer-suite
-- https://github.com/ilia144000/rannta-api
+## RANNTA Infrastructure and Products
+
+- https://github.com/ilia144000/RANNTA-Core-Public
+- https://github.com/ilia144000/rannta-x-change
 - https://github.com/ilia144000/rannta-crosschain
 - https://github.com/ilia144000/RANNTA-DeFi-Router
-- https://github.com/ilia144000/rannta-x-change
+- https://github.com/ilia144000/rannta-developer-suite
+- https://github.com/ilia144000/rannta-token
+- https://github.com/ilia144000/rannta-api
 - https://github.com/ilia144000/rannta-xchain-public-image
 - https://github.com/ilia144000/rannta-knowledge-hub
 - https://github.com/ilia144000/rannta-zenodo-registry
 - https://github.com/ilia144000/ranntaweb-v2
 
-## TON / Asset / Registry Work
+## RANNTA Public Services Referenced by These Repositories
+
+- https://rannta.com
+- https://rpc.rannta.com
+- https://explorer.rannta.com
+- https://ranntaexchange.com
+- https://pq.rannta.com
+- https://ranntaverse.app
+
+## TON / Asset / Registry Workspaces
 
 - https://github.com/ilia144000/awesome-ton
 - https://github.com/ilia144000/awesome-ton-copperbits
@@ -43,6 +55,8 @@ This index lists public repositories visible on the `ilia144000` GitHub account.
 
 - https://github.com/ilia144000/ranntaweb
 
-## Private Production Repositories
+## Private Production Boundaries
 
-The account also contains private production repositories for active RANNTA infrastructure. They are intentionally not indexed here for source disclosure. Public releases and source packages should only be exposed after a dedicated publication and secrets review.
+The account also contains private repositories for active production infrastructure. Private repositories, operational state, credentials, private keys, environment files and internal deployment material are intentionally excluded from this public index.
+
+Public source and release artifacts are exposed only through dedicated reviewed publication repositories such as `RANNTA-Core-Public` or through documentation-only public architecture repositories such as `rannta-x-change`.
