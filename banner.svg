@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Ilia GH - RANNTA Infrastructure</title>
+  <desc id="desc">Modern technical banner for Ilia GH, founder and builder of RANNTA blockchain, post-quantum, cross-chain and exchange infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080d"/>
+      <stop offset="0.52" stop-color="#0a111b"/>
+      <stop offset="1" stop-color="#050607"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0.82" cy="0.18" r="0.7">
+      <stop offset="0" stop-color="#59e6ff" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#59e6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGold" cx="0.14" cy="0.88" r="0.65">
+      <stop offset="0" stop-color="#f3c94f" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#f3c94f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f3c94f"/>
+      <stop offset="0.48" stop-color="#fff3a6"/>
+      <stop offset="1" stop-color="#63e6ff"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#8bdfff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <rect width="1600" height="500" fill="url(#glowCyan)"/>
+  <rect width="1600" height="500" fill="url(#glowGold)"/>
+  <rect width="1600" height="500" fill="url(#grid)"/>
+
+  <g opacity="0.75" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1030 87 L1160 145 L1285 93 L1392 169 L1512 122" fill="none" stroke="#59e6ff" stroke-opacity="0.36" stroke-width="2"/>
+    <path d="M1085 290 L1218 231 L1332 286 L1453 240 L1550 302" fill="none" stroke="#f3c94f" stroke-opacity="0.26" stroke-width="2"/>
+    <path d="M1160 145 L1218 231 M1285 93 L1332 286 M1392 169 L1453 240" fill="none" stroke="#7b8fa6" stroke-opacity="0.18" stroke-width="1.5"/>
+    <g fill="#07131c" stroke="#67e7ff" stroke-width="2">
+      <circle cx="1030" cy="87" r="7"/><circle cx="1160" cy="145" r="8"/><circle cx="1285" cy="93" r="7"/><circle cx="1392" cy="169" r="9"/><circle cx="1512" cy="122" r="7"/>
+      <circle cx="1085" cy="290" r="7"/><circle cx="1218" cy="231" r="9"/><circle cx="1332" cy="286" r="8"/><circle cx="1453" cy="240" r="7"/><circle cx="1550" cy="302" r="8"/>
+    </g>
+    <g fill="#f3c94f" filter="url(#softGlow)">
+      <circle cx="1218" cy="231" r="3.5"/><circle cx="1392" cy="169" r="3.5"/><circle cx="1453" cy="240" r="3.5"/>
+    </g>
+  </g>
+
+  <g transform="translate(1050 337)">
+    <rect x="0" y="0" width="470" height="92" rx="20" fill="#091019" fill-opacity="0.78" stroke="#6ee9ff" stroke-opacity="0.18"/>
+    <path d="M24 56H86L104 32H161L178 56H240L258 38H326L345 56H444" fill="none" stroke="url(#accent)" stroke-width="3"/>
+    <g fill="#071018" stroke="#eac74e" stroke-width="2">
+      <circle cx="24" cy="56" r="5"/><circle cx="104" cy="32" r="5"/><circle cx="178" cy="56" r="5"/><circle cx="258" cy="38" r="5"/><circle cx="345" cy="56" r="5"/><circle cx="444" cy="56" r="5"/>
+    </g>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="92" y="118" fill="#72e8ff" font-size="22" font-weight="700" letter-spacing="5">FOUNDER / INDEPENDENT BUILDER</text>
+    <text x="88" y="235" fill="#ffffff" font-size="96" font-weight="800" letter-spacing="-3">Ilia GH</text>
+    <rect x="92" y="268" width="760" height="4" rx="2" fill="url(#accent)"/>
+    <text x="92" y="327" fill="#dbe6ef" font-size="31" font-weight="650">Building RANNTA infrastructure end to end</text>
+    <text x="92" y="377" fill="#98aaba" font-size="24" font-weight="520">Independent L1  •  Post-Quantum Security  •  Cross-Chain  •  Exchange Infrastructure</text>
+    <text x="92" y="426" fill="#f0cf66" font-size="19" font-weight="700" letter-spacing="2.2">RANNTA X-CHAIN  /  PQ CLOUD  /  X-CHANGE  /  CORE  /  ROUTEX</text>
+  </g>
+
+  <rect x="1.5" y="1.5" width="1597" height="497" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="3"/>
+</svg>
