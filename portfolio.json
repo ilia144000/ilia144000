@@ -1,36 +1,70 @@
 {
-  "name": "Ilia Ghafari",
+  "name": "Ilia GH",
   "github": "ilia144000",
-  "role": "Independent Blockchain Infrastructure Developer",
-  "founder_of": "RANNTA",
+  "role": "Founder and Independent Builder of RANNTA",
   "focus": [
-    "Layer 1 blockchain infrastructure",
+    "independent Layer 1 blockchain infrastructure",
     "Rust node and protocol engineering",
+    "hybrid post-quantum security",
+    "ML-DSA-65 authorization",
+    "ML-KEM-768 protected transport",
     "cross-chain interoperability",
-    "exchange infrastructure",
-    "post-quantum authorization",
-    "TON tooling",
-    "Windows and Linux node software"
+    "non-custodial exchange infrastructure",
+    "public node software",
+    "developer SDKs and tooling",
+    "production deployment and release engineering"
   ],
-  "public_services": {
-    "website": "https://rannta.com",
-    "rpc": "https://rpc.rannta.com",
-    "explorer": "https://explorer.rannta.com",
-    "exchange": "https://ranntaexchange.com",
-    "pq_cloud": "https://pq.rannta.com",
-    "ranntaverse": "https://ranntaverse.app"
+  "systems": {
+    "rannta_x_chain": {
+      "status": "live",
+      "chain_id": 13113,
+      "rpc": "https://rpc.rannta.com",
+      "explorer": "https://explorer.rannta.com",
+      "network": "https://rannta.com/rannta-network.html",
+      "post_quantum_whitepaper": "https://rannta.com/network/post-quantum.html",
+      "hybrid_security_evidence": "https://rannta.com/network/hybrid-security-evidence.html"
+    },
+    "rannta_core": {
+      "status": "public portable RC1",
+      "repository": "https://github.com/ilia144000/RANNTA-Core-Public",
+      "release": "https://github.com/ilia144000/RANNTA-Core-Public/releases/tag/v2026.09.18-portable-rc1"
+    },
+    "rannta_pq_cloud": {
+      "status": "production-facing service",
+      "url": "https://pq.rannta.com",
+      "docs": "https://pq.rannta.com/docs",
+      "security_report": "https://pq.rannta.com/security-report"
+    },
+    "rannta_x_change": {
+      "status": "live",
+      "url": "https://ranntaexchange.com",
+      "repository": "https://github.com/ilia144000/rannta-x-change",
+      "address_network_checker": "https://ranntaexchange.com/tools/address-network-checker"
+    },
+    "ranntaverse": {
+      "url": "https://ranntaverse.app"
+    }
   },
   "selected_repositories": [
-    "https://github.com/ilia144000/rannta-token",
-    "https://github.com/ilia144000/rannta-developer-suite",
-    "https://github.com/ilia144000/rannta-api",
+    "https://github.com/ilia144000/RANNTA-Core-Public",
+    "https://github.com/ilia144000/rannta-x-change",
     "https://github.com/ilia144000/rannta-crosschain",
     "https://github.com/ilia144000/RANNTA-DeFi-Router",
-    "https://github.com/ilia144000/rannta-x-change",
+    "https://github.com/ilia144000/rannta-developer-suite",
+    "https://github.com/ilia144000/rannta-token",
+    "https://github.com/ilia144000/rannta-api",
     "https://github.com/ilia144000/rannta-xchain-public-image",
     "https://github.com/ilia144000/rannta-knowledge-hub",
     "https://github.com/ilia144000/rannta-zenodo-registry",
     "https://github.com/ilia144000/ranntaweb-v2"
+  ],
+  "publications_and_evidence": [
+    "https://rannta.com/network/post-quantum.html",
+    "https://rannta.com/network/hybrid-security-evidence.html",
+    "https://github.com/ilia144000/RANNTA-Core-Public/blob/main/PORTABLE-SETUP.md",
+    "https://github.com/ilia144000/rannta-x-change/blob/main/ARCHITECTURE.md",
+    "https://github.com/ilia144000/rannta-x-change/blob/main/SECURITY.md",
+    "https://medium.com/@ranntaofficial"
   ],
   "contact": {
     "network": "network@rannta.com",
