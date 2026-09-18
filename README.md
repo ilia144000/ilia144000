@@ -100,4 +100,4 @@ Open to:
 
 ## Attribution
 
-RANNTA architectural and protocol work presented here is attributed to **Ilia Ghafari** unless a repository clearly identifies third-party or upstream authorship.
+RANNTA architectural and protocol work presented here is attributed to **Ilia Gh** unless a repository clearly identifies third-party or upstream authorship.
