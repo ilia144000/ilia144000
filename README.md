@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Founder and independent builder of RANNTA</strong><br/>
-  Blockchain infrastructure • Post-quantum security • Cross-chain systems • Exchange infrastructure • Developer tooling
+  Blockchain infrastructure • Post-quantum security • Self-custody wallets • Cross-chain systems • Exchange infrastructure • Developer tooling
 </p>
 
 <p align="center">
@@ -25,13 +25,13 @@
 
 ## Build Thesis
 
-I build infrastructure across the full blockchain stack: protocol and node software, cryptographic authorization, public RPC services, cross-chain routing, exchange systems, desktop node software, APIs, SDKs, deployment, observability, release engineering and public technical documentation.
+I build infrastructure across the full blockchain stack: protocol and node software, cryptographic authorization, public RPC services, self-custody wallet systems, cross-chain routing, exchange systems, desktop node software, APIs, SDKs, deployment, observability, release engineering and public technical documentation.
 
-RANNTA is an independently built ecosystem. I work hands-on from architecture to production behavior, including Rust runtime engineering, C# desktop tooling, TypeScript and JavaScript applications, Linux operations, Windows packaging, security policy, developer interfaces and public release verification.
+RANNTA is an independently built ecosystem. I work hands-on from architecture to production behavior, including Rust runtime engineering, C# desktop tooling, React Native / Expo wallet engineering, TypeScript and JavaScript applications, Linux operations, Windows packaging, security policy, developer interfaces and public release verification.
 
-The current engineering direction connects five infrastructure layers:
+The current engineering direction connects six infrastructure layers:
 
-**Independent L1 network → hybrid post-quantum security → public node software → cross-chain routing → non-custodial exchange infrastructure**
+**Independent L1 network → hybrid post-quantum security → public node software → self-custody multichain wallet → cross-chain routing → non-custodial exchange infrastructure**
 
 ## Current Infrastructure
 
@@ -40,6 +40,7 @@ The current engineering direction connects five infrastructure layers:
 | **RANNTA X-Chain** | Live independent Layer 1, native RNTX, Chain ID `13113`, Ethereum-style JSON-RPC, public RPC and explorer | [Network](https://rannta.com/rannta-network.html) · [RPC](https://rpc.rannta.com) · [Explorer](https://explorer.rannta.com) |
 | **RANNTA Core** | Portable public full-node desktop and runtime controller, Windows x64 and ARM64 release, Linux node runtimes, source and integrity hashes | [Repository](https://github.com/ilia144000/RANNTA-Core-Public) · [RC1 Release](https://github.com/ilia144000/RANNTA-Core-Public/releases/tag/v2026.09.18-portable-rc1) |
 | **RANNTA PQ Cloud** | ML-DSA-65 verification, HybridRequired policy enforcement, canonical payloads, key registration and rotation, persistent replay protection, authenticated API and TypeScript SDK | [PQ Cloud](https://pq.rannta.com) · [Docs](https://pq.rannta.com/docs) · [Security Report](https://pq.rannta.com/security-report) |
+| **RANNTA ArcWallet** | Self-custody React Native / Expo multichain wallet with 33 registered production networks, 33/33 live capability verification, native-send support across the registry, first-class RANNTA X-Chain integration, Secure Signer Boundary, Transaction Firewall and wallet-wide ML-DSA-65 co-authorization | Private development repository · public release pending |
 | **RANNTA X-Change** | Live non-custodial multi-chain exchange and blockchain utility platform, native RouteX architecture plus integrated Squid and Rango routing surfaces | [Exchange](https://ranntaexchange.com) · [Public Technical Repository](https://github.com/ilia144000/rannta-x-change) |
 | **RouteX** | Native RANNTA routing, execution-planning, registry and blockchain-normalization architecture | [X-Change Technical Identity](https://github.com/ilia144000/rannta-x-change) |
 | **RANNTA Cross-Chain Core** | Bridge, Warp and Gateway foundation with a multi-family target registry including RANNTA X-Chain, Bitcoin, Ethereum, Solana, TON, TRON, Aptos and major EVM networks | [Repository](https://github.com/ilia144000/rannta-crosschain) |
@@ -88,7 +89,9 @@ RANNTA Core extends the network into independently operated public nodes. The cu
 
 [RANNTA Core Portable RC1](https://github.com/ilia144000/RANNTA-Core-Public/releases/tag/v2026.09.18-portable-rc1)
 
-## Exchange, Routing and Multi-Chain Infrastructure
+## Wallet, Exchange, Routing and Multi-Chain Infrastructure
+
+**RANNTA ArcWallet** is a self-custody React Native + Expo Router wallet for 33 production networks, with RANNTA X-Chain as a first-class network. The current runtime has verified native-send capability across all 33 registered networks. Its security boundary includes capability-scoped signing, chain-identity validation, a fail-closed Transaction Firewall, secure vault storage and ML-DSA-65 co-authorization. Public store distribution is pending independent external security review and signed release testing.
 
 **RANNTA X-Change** is a live non-custodial multi-chain exchange and blockchain utility platform. Users retain wallet control and explicitly sign blockchain transactions.
 
@@ -144,6 +147,7 @@ This account also contains public upstream registries, forks, asset workspaces a
 <p>
   <img src="https://img.shields.io/badge/Rust-Protocol%20%26%20Node-111111?style=flat-square&logo=rust" alt="Rust" />
   <img src="https://img.shields.io/badge/C%23-Desktop%20Tooling-512BD4?style=flat-square&logo=csharp" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/React%20Native-Self--custody%20Wallet-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-SDKs%20%26%20Apps-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-Web%20Systems-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Linux-Production%20Ops-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
@@ -151,7 +155,7 @@ This account also contains public upstream registries, forks, asset workspaces a
   <img src="https://img.shields.io/badge/PostgreSQL-Persistent%20Security%20State-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-Working areas include Rust protocol/runtime development, Axum APIs, C# desktop applications, TypeScript SDKs, JavaScript web products, PostgreSQL-backed security state, Windows and WSL packaging, Linux system services, JSON-RPC infrastructure, OpenAPI contracts, GitHub release engineering and production debugging.
+Working areas include Rust protocol/runtime development, Axum APIs, C# desktop applications, React Native / Expo self-custody wallet engineering, TypeScript SDKs, JavaScript web products, PostgreSQL-backed security state, Windows and WSL packaging, Linux system services, JSON-RPC infrastructure, OpenAPI contracts, GitHub release engineering and production debugging.
 
 ## Selected Public Endpoints
 
@@ -175,7 +179,7 @@ I am open to conversations around:
 - protocol and node engineering
 - cross-chain infrastructure and routing partnerships
 - developer tooling and wallet integration
-- technical collaboration around X-Chain, RANNTA Core, RouteX and PQ Cloud
+- technical collaboration around X-Chain, RANNTA Core, ArcWallet, RouteX and PQ Cloud
 
 RANNTA is built independently, with direct ownership of architecture, implementation, release engineering and production operations.
 
