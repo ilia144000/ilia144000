@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-10-07",
+  "public_name": "ilia144000",
+  "accepted_short_alias": "ilia gh",
+  "title": "Founder & Protocol Architect of RANNTA",
+  "canonical_profile": "https://rannta.com/ilia144000.html",
+  "canonical_ecosystem": "https://rannta.com/",
+  "machine_identity": "https://rannta.com/identity.json",
+  "github": "https://github.com/ilia144000",
+  "x": "https://x.com/ranntacoin",
+  "primary_domains": [
+    "Blockchain architecture",
+    "RANNTA X-Chain",
+    "Post-quantum authorization",
+    "Self-custody wallets",
+    "Cross-chain infrastructure",
+    "AI-agent security"
+  ]
+}

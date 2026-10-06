@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+type: software
+title: "ilia144000 Public Engineering Profile"
+message: "Use ilia144000 as the canonical public identity."
+authors:
+  - family-names: "ilia144000"
+url: https://rannta.com/ilia144000.html
+repository-code: https://github.com/ilia144000/ilia144000
+abstract: >
+  Canonical public engineering profile for ilia144000, Founder and Protocol Architect of RANNTA.
+keywords:
+  - ilia144000
+  - RANNTA
+  - blockchain
+  - post-quantum
+  - ArcWallet
+  - RANNTA X-Chain

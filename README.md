@@ -2,10 +2,12 @@
   <img src="banner.svg" alt="ilia144000 | RANNTA Infrastructure" width="100%" />
 </p>
 
-<h1 align="center">ilia144000</h1>\n\n<p align="center"><strong>Public alias: ilia gh</strong></p>
+<h1 align="center">ilia144000</h1>
+
+<p align="center"><strong>Public alias: ilia gh</strong></p>
 
 <p align="center">
-  <strong>Founder and independent builder of RANNTA</strong><br/>
+  <strong>Founder &amp; Protocol Architect of RANNTA</strong><br/>
   Blockchain infrastructure • Post-quantum security • Self-custody wallets • Cross-chain systems • Exchange infrastructure • Developer tooling
 </p>
 
@@ -21,6 +23,11 @@
   <a href="https://rannta.com/network/post-quantum.html">Post-Quantum Whitepaper</a> ·
   <a href="https://rannta.com/network/hybrid-security-evidence.html">Hybrid Security Evidence</a>
 </p>
+
+Canonical public identity: **ilia144000**  
+Accepted short alias: **ilia gh**  
+Canonical profile: https://rannta.com/ilia144000.html  
+Machine identity: https://rannta.com/identity.json
 
 ## Build Thesis
 
@@ -192,5 +199,5 @@ RANNTA is built independently, with direct ownership of architecture, implementa
 
 <p align="center">
   <strong>ilia144000</strong><br/>
-  Founder and independent builder of RANNTA
+  Founder & Protocol Architect of RANNTA
 </p>
