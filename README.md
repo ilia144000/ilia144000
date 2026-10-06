@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.svg" alt="Ilia GH | RANNTA Infrastructure" width="100%" />
+  <img src="banner.svg" alt="ilia144000 | RANNTA Infrastructure" width="100%" />
 </p>
 
-<h1 align="center">Ilia GH</h1>
+<h1 align="center">ilia144000</h1>\n\n<p align="center"><strong>Public alias: ilia gh</strong></p>
 
 <p align="center">
   <strong>Founder and independent builder of RANNTA</strong><br/>
@@ -19,8 +19,7 @@
 <p align="center">
   <a href="https://github.com/ilia144000/RANNTA-Core-Public/releases/tag/v2026.09.18-portable-rc1">RANNTA Core Release</a> ·
   <a href="https://rannta.com/network/post-quantum.html">Post-Quantum Whitepaper</a> ·
-  <a href="https://rannta.com/network/hybrid-security-evidence.html">Hybrid Security Evidence</a> ·
-  <a href="https://orcid.org/0009-0001-9044-4662">ORCID</a>
+  <a href="https://rannta.com/network/hybrid-security-evidence.html">Hybrid Security Evidence</a>
 </p>
 
 ## Build Thesis
@@ -190,9 +189,8 @@ RANNTA is built independently, with direct ownership of architecture, implementa
 - **Website:** https://rannta.com
 - **X:** https://x.com/ranntacoin
 - **Medium:** https://medium.com/@ranntaofficial
-- **ORCID:** https://orcid.org/0009-0001-9044-4662
 
 <p align="center">
-  <strong>Ilia GH</strong><br/>
+  <strong>ilia144000</strong><br/>
   Founder and independent builder of RANNTA
 </p>
