@@ -7,7 +7,7 @@
 <p align="center"><strong>Public alias: ilia gh</strong></p>
 
 <p align="center">
-  <strong>Founder &amp; Protocol Architect of RANNTA</strong><br/>
+  <strong>Founder &amp; Protocol Architect of RANNTA | Author</strong><br/>
   Blockchain infrastructure • Post-quantum security • Self-custody wallets • Cross-chain systems • Exchange infrastructure • Developer tooling
 </p>
 
@@ -147,6 +147,19 @@ This account also contains public upstream registries, forks, asset workspaces a
 - **[RANNTA X-Change Security](https://github.com/ilia144000/rannta-x-change/blob/main/SECURITY.md)** - public security and trust model
 - **[RANNTA X-Change Launch Record](https://rannta.com/articles/rannta-x-change-launch-2026-07-13.html)** - public product launch article
 - **[RANNTA on Medium](https://medium.com/@ranntaofficial)** - public articles and ecosystem writing
+
+## Published Books
+
+Alongside my work in blockchain infrastructure and artificial intelligence, I write nonfiction exploring technology, economics, philosophy, scientific history and human meaning.
+
+My published books include:
+
+- **Secrets of Crypto Networks**
+- **The Wealth Code**
+- **Newton's Secret Laboratory**
+- **From Urine to Gold**
+
+📚 **[Explore my published books on Written.app](https://written.app/profile/iliya14400/published-books)**
 
 ## Engineering Stack
 
